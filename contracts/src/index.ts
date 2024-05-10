@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { HumanIds } from './HumanIds.js';
 
-export { Add };
+export { HumanIds };
